@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="headername">BYF</string>
+    <string name="ed1">Enter the country name</string>
+    <string name="btn1">Choose the top color</string>
+    <string name="btn2">Choose the middle color</string>
+    <string name="btn3">Choose the bottom color</string>
+    <string name="guidance">Press the area you want to color</string>
+    <string name="tvtop">Choose top color</string>
+    <string name="tvmiddle">Choose middle color</string>
+    <string name="tvbttom">Choose bottom color</string>
+    <string name="btn1top">RED</string>
+    <string name="btn2top">BLUE</string>
+    <string name="btn3top">GREEN</string>
+    <string name="rb1">Bleu</string>
+    <string name="rb2">Red</string>
+    <string name="rb3">Green</string>
+<string-array name="sp1">
+    <item>White</item>
+    <item>Green</item>
+    <item>Yellow</item>
+</string-array>
+    <string name="btnset">SET</string>
+
+</resources>
